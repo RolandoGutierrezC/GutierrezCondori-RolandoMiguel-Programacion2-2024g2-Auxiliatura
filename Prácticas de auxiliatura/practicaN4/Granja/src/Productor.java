@@ -1,0 +1,4 @@
+interface Productor {
+    void producir();
+}
+
